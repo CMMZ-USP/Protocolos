@@ -1,0 +1,102 @@
+Protocolo de Extração de hDNA — Peles e Toepads
+
+#### Reagentes Necessários:
+
+# Descontaminação e limpeza
+•	Água sanitária (hipoclorito de sódio)
+
+# Lavagem dos tecidos
+•	EDTA 0,5 M, pH 8,0
+•	Água nuclease-free
+
+# Extração (tampão STE/SDS)
+•	Tampão pré-lise
+•	Proteinase K
+•	Tampão STE
+•	SDS 10%
+•	Beads magnéticas
+•	Etanol (EtOH) 80%, gelado
+•	ddH2O (água ultrapura) ou tampão de eluição
+
+# Gel de agarose (controle de qualidade)
+•	Agarose
+•	Tampão TBE
+•	Marcador de peso molecular GeneRuler 50 pb
+•	SYBR Gold ou SYBR Green
+
+
+#### Importante
+•	Esterilize todo o material, espaço de trabalho e equipamentos que serão usados com UV (10 minutos) e água sanitária.
+•	Pipetas, ponteiras (com e sem filtro), microtubos, caneta, parafilme, material para fragmentar/cortar amostras (papel alumínio, pinça e lâmina de bisturi, pistilo, ziplock)
+•	Banho seco, Minicentrífuga, Vortex
+•	Reposicione os equipamentos durante a exposição (pipetas, grade de tubos, minicentrífuga, vortex) para garantir que todas as superfícies relevantes recebam luz direta — UV-C não atravessa sombra.
+•	Prenda o cabelo e use touca, máscara e luvas. Troque as luvas entre amostras e sempre que a mão tocar algo fora do fluxo limpo.
+•	Venha ao laboratório com roupas e avental limpo (avental de uso exclusivo da área de extração).
+•	Cabine PCR free: manter uso exclusivo para etapas de extração completa em cabine, que nunca recebe produto amplificado. Reforçar descontaminação UV-C da cabine entre sessões de extração.
+•	Sempre utilizar uma amostra controle. Incluir 1 tubo sem tecido, passando por todo o fluxo (pré-lise, digestão, beads, eluição), a cada lote de extração. Checar o resultado antes de liberar o lote para biblioteca/sequenciamento, não apenas registrar depois.
+•	Use ponteiras com filtro em toda a etapa de extração, não só ao pipetar DNA.
+•	Se puder, use tubos low-binding (esse tipo de tubo ajuda a extrair maior quantidade de DNA).
+
+#### Lavagens dos Tecidos
+
+Tecidos:
+1.	Corte um pedaço da amostra (30 mg no máximo) utilizando papel alumínio, pinça e lâmina de bisturi 
+2.	Retorne o pedaço que não será utilizado para o recipiente principal
+3.	Coloque a amostra que será utiliza em um tubo de 1.5ml
+4.	Descarte o alumínio e a lâmina e pegue outra pinça esterilizada
+5.	Passe água sanitária em toda superfície de trabalho
+6.	Repita o mesmo procedimento para todas as amostras 
+7.	Use amostras de diferentes espécies entre uma e outra se possível
+8.	Adicione 700ul de EDTA 0,5 M, pH 8,0 a cada amostra e misture por inversão
+9.	Incube a amostra a 35°C por 15 minutos
+10.	Repita o processo mais 1x
+11.	Enxágue com água nuclease free em um volume suficiente para submergir a peça inteira
+12.	Deixe a amostra secar ao ar livre por 5 minutos em uma capela limpa para remover o excesso de líquido antes de prosseguir com a digestão.
+
+#### Extração usando tampão STE/SDS
+
+1.	Aquecer o banho seco a 56°C.
+2.	Adicionar 250 µl de tampão pré-lise e 10 µl de Proteinase K a cada tubo 
+3.	Incube 45–60 min a 56 °C, misturando ocasionalmente.
+4.	Centrifugue e DESCARTE o sobrenadante.
+5.	Adicionar 200 µl de tampão STE a cada tubo de 1.5ml 
+6.	Adicionar a amostra de tecido
+7.	Adicionar 30 µl de SDS 10% e 30 µl de Proteinase K a cada tubo (use uma nova ponteira para cada tubo).
+8.	Vortexar e centrifugar rapidamente para misturar
+9.	Incubar a 56°C até a completa digestão do tecido (ou overnight). Se restar tecido não digerido, reforçar com Proteinase K antes de prosseguir.
+10.	Se ainda restar resíduo sólido, centrifugue forte (≥10.000 × g, 2–5 min) e transfira só o sobrenadante limpo.
+11.	Adicionar 470 µl de beads magnéticas. Misture pipetando suavemente. Incubar a mistura por 10 minutos em Tempreratura ambiente no escuro (as beads são sensíveis a luz) – sugestão colocar em uma gaveta.
+12.	Abra os tubos, um de cada vez, e encaixe-os na rack magnética. 
+13.	Com uma pipeta P200 com ponteira com filtro (uma para cada tubo), aspirar o liquido dos tubos e descartar. O PEG contido na solução das beads é muito viscoso e pode puxar as beads para o fundo do tubo, para evitar perder beads pode-se pipetar os últimos 20uL com uma P20.
+14.	Remova os tubos da rack magnética
+15.	Lavar as beads – adicionar 300uL de 80% de EtOH gelado em cada tubo. Incline a rack várias vezes para enxaguar as beads que estão mais acima no tubo 
+16.	Incubar 30 segundos.
+17.	Aspirar o EtOH usando P200 com ponteiras com filtro para cada tubo.
+18.	Lavar novamente as beads mais 2x como nos itens 15, 16 e 17, totalizando 3 lavagens. 
+19.	Deixe os tubos abertos para secar o álcool (aproximadamente 4 minutos) - não deixe o pellet “rachar”.
+20.	Retire os tubos da rack magnética
+21.	Adicionar 70 µL de ddH2O quente (60–65 °C) ou do tampão de eluição nas beads e misturar gentilmente com a pipeta.
+22.	Incubar a mistura por 5 minutos no banho seco a 60 °C.
+23.	Coloque novamente os tubos na rack magnética e transfira o sobrenadante para um novo tubo (Eluição 1)
+24.	Adicionar 35 µL de ddH2O quente (60–65 °C) ou do tampão de eluição nas beads e misturar gentilmente com a pipeta.
+25.	Incubar a mistura por 5 minutos no banho seco a 60 °C.
+26.	Coloque novamente os tubos na rack magnética e transfira o sobrenadante para um novo tubo (Eluição 2) 
+27.	Avaliar a pureza e concentração do DNA no NanoDrop/Qubit e a integridade em gel de agarose.
+28.	Verificar o resultado do controle negativo de extração do lote antes de liberar as amostras para biblioteca/sequenciamento.
+29.	Armazenar o DNA a -20°C.
+ 
+#### Gel de Agarose 
+
+•	Marcador: GeneRuler de 50 pb.
+•	Tampão: TBE 
+•	Corrida: voltagem baixa por mais tempo (~40–60 V por 2–3 h).
+•	Concentração: 3% de agarose.
+•	Corante: SYBR Gold ou SYBR Green.
+•	DNA: DNA: meta de 25 ng por poço. Teto de volume: 10% do eluato. Quantificar no Qubit, calcular o volume necessário para 25ng, e carregar o menor valor entre esse volume e o teto.
+
+Exemplo:
+Caso A — bom rendimento (Qubit: 15 ng/µL)
+Volume pra 25 ng = 25 ÷ 15 = 1,7 µL → carregue 1,7 µL.
+Caso B — extrato pobre (Qubit: 1,5 ng/µL)
+Volume pra 25 ng = 25 ÷ 1,5 = 16,7 µL. Ultrapassa o teto (7 µL) → carregue os 7 µL, que entregam 7 × 1,5 = 10,5 ng. Fica abaixo da meta, mas dentro do limite de conservação de amostra.
+
