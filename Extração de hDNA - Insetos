@@ -1,0 +1,72 @@
+# Extração de DNA com beads magnéticas (destrutiva e não-destrutiva) para insetos
+
+1. Objetivo
+Descrever o procedimento padronizado para extração de DNA a partir de insetos, utilizando beads magnéticas, preservando o exemplar para remontagem (não-destrutiva) ou não.
+
+Antes de começar:
+
+  - Cheque os reagentes e soluções e tenha certeza de que tudo está disponível ANTES de começar.
+  - Preencha TODAS as informações de cada indivíduo na planilha de extração do seu laboratório. 
+  - Prepare fotos em alta qualidade dos indivíduos a serem extraídos, em vista lateral, dorsal e frontal, além das etiquetas associadas a ele. Caso necessário, adicione um número de tombo e inclua as informações de etiqueta ao banco de dados da coleção. 
+  - Prepare os espécimes e coloque-os em tubos de 1,5 mL. Para extração não-destrutiva, faça um pequeno furo na região ventral do inseto ou remova algumas pernas, para aumentar a quantidade de DNA obtida. Os espécimes devem estar secos antes de serem colocados nos tubos. Caso não planeje proceder com a extração imediatamente, coloque os espécimes preparados em tubos em caixa fechada no freezer do seu laboratório (não podem ser deixados no Laboratório de Biologia Molecular). 
+
+2. Reagentes e soluções
+
+2.1 Tampão de lise - 200 mM Tris, 25 mM EDTA, 0,05% Tween
+
+Preparo (para 50 mL):
+	- Tris-HCl 1 M: 10 mL
+  - EDTA 0,5 M: 2,5 mL
+  - Tween 20: 25 µL
+  - Água ultrapura (nuclease-free): completar até 50 mL (≈ 37,475 mL)
+
+Observações:
+-	Armazenar em temperatura ambiente ou 4°C.
+-	Homogeneizar antes do uso.
+ 
+2.2 Outros reagentes
+-	Proteinase K (10 mg/mL)
+-	Solução de beads magnéticas (tipo SPRI)
+-	Etanol 80%
+-	Água nuclease-free (para eluição)
+ 
+## Materiais e equipamentos
+-	Tubos 1,5 mL
+-	Rack magnético
+-	Vortex
+-	Microcentrífuga
+-	Pipetas e ponteiras com filtro estéreis
+-	Estufa ou bloco térmico (56°C)
+-	Pinça entomológica
+ 
+
+# Procedimento Dia 01
+
+  1.	Adicionar 180 µL de tampão de lise e 40 µL de Proteinase K (10 mg/mL) à amostra.
+  2.	Incubar a 56°C de um dia para o outro, com o shaker ligado a 400 rpm.
+  
+# Procedimento Dia 02  
+
+  3.	Retirar a solução de beads da geladeira pelo menos 30 minutos antes do uso para atingir temperatura ambiente.
+  4.	Remover cuidadosamente o inseto da solução de lise e prepará-lo para remontagem.
+  5.	Homogeneizar bem a solução de beads em vortex.
+  6.	Adicionar 440 µL (2x volume) de beads à amostra.
+  7.	Vortexar e incubar na incubadora a 56°C com shaker a 400 rpm por 30 minutos.
+  8.	Centrifugar rapidamente e colocar no rack magnético por 3–5 minutos, até a clarificação da solução.
+  9.	Remover e descartar o sobrenadante.
+  10.	Com o tubo no rack, adicionar 500 µL de etanol 80%.
+  11.	Incubar por 1 minuto e remover o etanol. 
+  12.	Repetir a lavagem uma segunda vez.
+  13.	Remover completamente o etanol residual e deixar secar por 5–10 minutos.
+      - Atenção: evitar ressecamento excessivo (beads rachadas).
+  13.	Adicione 30 µL de água nuclease-free.
+  14.	Vortexar até completa ressuspensão e incubar por 5 minutos a 56°C.
+  15.	Colocar no rack magnético por pelo menos 3 minutos, até a solução ficar clara.
+  16.	Transferir o eluato para um novo tubo devidamente identificado.
+ 
+## Controle de qualidade e observações
+-	Garantir homogeneização completa das beads antes do uso.
+-	Evitar aspirar beads durante remoção do sobrenadante.
+-	Registrar código da amostra, data e responsável.
+- Armazenar o DNA a -20°C ou -80°C, conforme necessidade.
+-	O exemplar deve ser corretamente remontado e reincorporado à coleção.
