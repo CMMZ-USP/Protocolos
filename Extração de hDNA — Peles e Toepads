@@ -85,18 +85,3 @@ Tecidos:
 28.	Verificar o resultado do controle negativo de extração do lote antes de liberar as amostras para biblioteca/sequenciamento.
 29.	Armazenar o DNA a -20°C.
  
-#### Gel de Agarose 
-
-•	Marcador: GeneRuler de 50 pb.
-•	Tampão: TBE 
-•	Corrida: voltagem baixa por mais tempo (~40–60 V por 2–3 h).
-•	Concentração: 3% de agarose.
-•	Corante: SYBR Gold ou SYBR Green.
-•	DNA: DNA: meta de 25 ng por poço. Teto de volume: 10% do eluato. Quantificar no Qubit, calcular o volume necessário para 25ng, e carregar o menor valor entre esse volume e o teto.
-
-Exemplo:
-Caso A — bom rendimento (Qubit: 15 ng/µL)
-Volume pra 25 ng = 25 ÷ 15 = 1,7 µL → carregue 1,7 µL.
-Caso B — extrato pobre (Qubit: 1,5 ng/µL)
-Volume pra 25 ng = 25 ÷ 1,5 = 16,7 µL. Ultrapassa o teto (7 µL) → carregue os 7 µL, que entregam 7 × 1,5 = 10,5 ng. Fica abaixo da meta, mas dentro do limite de conservação de amostra.
-
