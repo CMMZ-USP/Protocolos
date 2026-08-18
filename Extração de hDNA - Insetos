@@ -1,106 +1,131 @@
-# Extração de DNA com beads magnéticas (destrutiva e não-destrutiva) para insetos
+**Extração de DNA com Beads Magnéticas — Insetos**
 
-## 1. Objetivo
+| Código do protocolo \[EXT-INS-01\] | Versão v1.0 | Data de emissão 31/07/2026 | Responsável técnico Gabriela P. Camacho |
+| :---- | :---- | :---- | :---- |
 
-Descrever o procedimento padronizado para extração de DNA a partir de insetos, utilizando beads magnéticas, preservando o exemplar para remontagem (não-destrutiva) ou não.
+# **1\. Objetivo**
 
-Antes de começar:
+Descrever o procedimento padronizado para extração de DNA a partir de insetos, utilizando beads magnéticas, preservando o exemplar para remontagem (extração não-destrutiva) ou não (extração destrutiva).
 
-- Cheque os reagentes e soluções e tenha certeza de que tudo está disponível ANTES de começar.
-- Preencha TODAS as informações de cada indivíduo na planilha de extração do seu laboratório.
-- Prepare fotos em alta qualidade dos indivíduos a serem extraídos, em vista lateral, dorsal e frontal, além das etiquetas associadas a ele. Caso necessário, adicione um número de tombo e inclua as informações de etiqueta ao banco de dados da coleção.
-- Prepare os espécimes e coloque-os em tubos de 1,5 mL. Para extração não-destrutiva, faça um pequeno furo na região ventral do inseto ou remova algumas pernas, para aumentar a quantidade de DNA obtida. Os espécimes devem estar secos antes de serem colocados nos tubos. Caso não planeje proceder com a extração imediatamente, coloque os espécimes preparados em tubos em caixa fechada no freezer do seu laboratório (não podem ser deixados no Laboratório de Biologia Molecular).
+# **2\. Antes de começar**
 
-## Importante — biossegurança e prevenção de contaminação
+* Cheque os reagentes e soluções e tenha certeza de que tudo está disponível antes de começar.
 
-- Esterilize todo o material, espaço de trabalho e equipamentos que serão usados com UV (10 minutos) e água sanitária.
-- Pipetas, ponteiras (com e sem filtro), microtubos, caneta, parafilme, pinça entomológica.
-- Estufa/bloco térmico, minicentrífuga, vortex.
-- Reposicione os equipamentos durante a exposição UV (pipetas, grade de tubos, minicentrífuga, vortex) para garantir que todas as superfícies relevantes recebam luz direta — UV-C não atravessa sombra.
-- Prenda o cabelo e use touca, máscara e luvas. Troque as luvas entre amostras e sempre que a mão tocar algo fora do fluxo limpo.
-- Venha ao laboratório com roupas e avental limpo (avental de uso exclusivo da área de extração).
-- Cabine PCR free: manter uso exclusivo para etapas de extração completa em cabine, que nunca recebe produto amplificado. Reforçar descontaminação UV-C da cabine entre sessões de extração.
-- **Sempre utilizar uma amostra controle.** Incluir 1 tubo sem inseto, passando por todo o fluxo (lise, beads, eluição), a cada lote de extração. Checar o resultado antes de liberar o lote para biblioteca/sequenciamento, não apenas registrar depois.
-- Use ponteiras com filtro em toda a etapa de extração, não só ao pipetar DNA.
-- Se puder, use tubos low-binding (esse tipo de tubo ajuda a extrair maior quantidade de DNA) — especialmente relevante aqui, já que insetos costumam render menos DNA que peles ou tecido em formol.
+* Preencha todas as informações de cada indivíduo na planilha de extração do laboratório.
 
-## 2. Reagentes e soluções
+* Prepare fotos em alta qualidade dos indivíduos a serem extraídos, em vista lateral, dorsal e frontal, além das etiquetas associadas a ele. Caso necessário, adicione um número de tombo e inclua as informações de etiqueta ao banco de dados da coleção.
 
-### 2.1 Tampão de lise — 200 mM Tris, 25 mM EDTA, 0,05% Tween
+* Prepare os espécimes e coloque-os em tubos de 1,5 mL. Para extração não-destrutiva, faça um pequeno furo na região ventral do inseto ou remova algumas pernas, para aumentar a quantidade de DNA obtida. Os espécimes devem estar secos antes de serem colocados nos tubos. Caso não planeje proceder com a extração imediatamente, coloque os espécimes preparados em tubos em caixa fechada no freezer do laboratório (não podem ser deixados no Laboratório de Biologia Molecular).
 
-Preparo (para 50 mL):
-- Tris-HCl 1 M: 10 mL
-- EDTA 0,5 M: 2,5 mL
-- Tween 20: 25 µL
-- Água ultrapura (nuclease-free): completar até 50 mL (≈ 37,475 mL)
+# **3\. Biossegurança e prevenção de contaminação**
 
-Observações:
-- Armazenar em temperatura ambiente ou 4°C.
-- Homogeneizar antes do uso.
+* Esterilize todo o espaço de trabalho e equipamentos que serão usados com água sanitária.
 
-### 2.2 Outros reagentes
+* Prenda o cabelo e use touca, máscara e luvas. Troque as luvas entre amostras e sempre que a mão tocar algo fora do fluxo limpo.
 
-- Proteinase K (10 mg/mL)
-- Solução de beads magnéticas (tipo SPRI)
-- Etanol 80%
-- Água nuclease-free (para eluição)
+* Venha ao laboratório com roupas e avental limpo (avental de uso exclusivo da área de extração).
 
-## Materiais e equipamentos
+* Sempre utilizar uma amostra controle. Incluir 1 tubo sem inseto, passando por todo o fluxo (lise, beads, eluição), a cada lote de extração. Checar o resultado antes de liberar o lote para biblioteca/sequenciamento, não apenas registrar depois.
 
-- Tubos 1,5 mL (low-binding, se disponível) **[NOVO]**
-- Rack magnético
-- Vortex
-- Microcentrífuga
-- Pipetas e ponteiras com filtro estéreis
-- Estufa ou bloco térmico (56°C)
-- Pinça entomológica
+* Use ponteiras com filtro em toda a etapa de extração, não só ao pipetar DNA.
 
-## Procedimento Dia 01
+# **4\. Reagentes e soluções**
+
+## **4.1 Tampão de lise — 200 mM Tris, 25 mM EDTA, 0,05% Tween**
+
+Preparo (para 50 mL): Tris-HCl 1 M — 10 mL; EDTA 0,5 M — 2,5 mL; Tween 20 — 25 µL; água ultrapura (nuclease-free) — completar até 50 mL (≈ 37,475 mL).
+
+*Armazenar em temperatura ambiente ou 4°C. Homogeneizar antes do uso.*
+
+## **4.2 Outros reagentes**
+
+* Proteinase K (10 mg/mL)
+
+* Solução de beads magnéticas (tipo SPRI)
+
+* Etanol 80%
+
+* Água nuclease-free (para eluição)
+
+# **5\. Materiais e equipamentos**
+
+* Tubos 1,5 mL (low-binding, se disponível)
+
+* Rack magnético
+
+* Vortex
+
+* Microcentrífuga
+
+* Pipetas e ponteiras com filtro estéreis
+
+* Estufa ou bloco térmico (56°C)
+
+* Pinça entomológica
+
+# **6\. Procedimento**
+
+## **Dia 1**
 
 1. Adicionar 180 µL de tampão de lise e 40 µL de Proteinase K (10 mg/mL) à amostra.
-2. Incubar a 56°C de um dia para o outro, com o shaker ligado a 400 rpm.
 
-## Procedimento Dia 02
+2. Incubar a 56°C de um dia para o outro, com o shaker ligado a 500 rpm.
 
-3. **[NOVO]** Antes de prosseguir, verifique visualmente se a digestão foi completa (tecido mole, sem partes rígidas remanescentes além do exoesqueleto a ser removido). Se restar tecido interno não digerido, reforce com mais 10–20 µL de Proteinase K e incube por mais 1–2h a 56°C antes de seguir.
+## **Dia 2**
+
+3. **\[QC\]** Pela manhã, reforçar com mais 20 µL de Proteinase K e incubar por mais 1–2h a 56°C antes de seguir.
+
 4. Retirar a solução de beads da geladeira pelo menos 30 minutos antes do uso para atingir temperatura ambiente.
+
 5. Remover cuidadosamente o inseto da solução de lise e prepará-lo para remontagem.
-6. **[NOVO]** Se restar resíduo sólido/particulado na solução de lise após a remoção do inseto, centrifugue forte (≥10.000 × g, 2–5 min) e siga só com o sobrenadante limpo, transferindo-o para um tubo novo antes de adicionar as beads.
+
+6. **\[QC\]** Se restar resíduo sólido/particulado na solução de lise após a remoção do inseto, centrifugar forte (≥10.000 × g, 2–5 min) e seguir só com o sobrenadante limpo, transferindo-o para um tubo novo antes de adicionar as beads.
+
 7. Homogeneizar bem a solução de beads em vortex.
-8. Adicionar 440 µL (2x volume) de beads à amostra (ou ao sobrenadante limpo, se aplicável o passo 6).
-9. Vortexar e incubar na incubadora a 56°C com shaker a 400 rpm por 30 minutos.
+
+8. Adicionar 440 µL (2x volume) de beads à amostra.
+
+9. Vortexar e incubar na incubadora a 56°C com shaker a 500 rpm por 30 minutos.
+
 10. Centrifugar rapidamente e colocar no rack magnético por 3–5 minutos, até a clarificação da solução.
-11. Remover e descartar o sobrenadante. **[NOVO]** O PEG contido na solução das beads é viscoso e pode puxar as beads para o fundo do tubo — para os últimos ~20 µL, considere trocar para uma pipeta P20 para evitar perda de beads.
+
+11. Remover e descartar o sobrenadante. O PEG contido na solução das beads é viscoso e pode puxar as beads para o fundo do tubo — para os últimos \~20 µL, considerar trocar para uma pipeta P20 para evitar perda de beads.
+
 12. Com o tubo no rack, adicionar 500 µL de etanol 80%.
+
 13. Incubar por 1 minuto e remover o etanol.
+
 14. Repetir a lavagem uma segunda vez.
-15. Remover completamente o etanol residual e deixar secar por 5–10 minutos.
-    - Atenção: evitar ressecamento excessivo (beads rachadas).
-16. Adicione 30 µL de água nuclease-free.
+
+15. Remover completamente o etanol residual e deixar secar por 5–10 minutos. Atenção: evitar ressecamento excessivo (beads rachadas).
+
+16. Adicionar 40 µL de água nuclease-free.
+
 17. Vortexar até completa ressuspensão e incubar por 5 minutos a 56°C.
+
 18. Colocar no rack magnético por pelo menos 3 minutos, até a solução ficar clara.
+
 19. Transferir o eluato para um novo tubo devidamente identificado.
-20. **[NOVO]** Avaliar a pureza e concentração do DNA no NanoDrop/Qubit e a integridade em gel de agarose antes do armazenamento.
-21. **[NOVO]** Verificar o resultado do controle negativo de extração do lote antes de liberar as amostras para biblioteca/sequenciamento.
 
-## Controle de qualidade e observações
+20. **\[QC\]** Avaliar a pureza e concentração do DNA no Qubit e a integridade em gel de agarose antes do armazenamento.
 
-- Garantir homogeneização completa das beads antes do uso.
-- Evitar aspirar beads durante remoção do sobrenadante.
-- Registrar código da amostra, data e responsável.
-- Armazenar o DNA a -20°C ou -80°C, conforme necessidade.
-- O exemplar deve ser corretamente remontado e reincorporado à coleção.
+21. **\[QC\]** Verificar o resultado do controle negativo de extração do lote antes de liberar as amostras para biblioteca/sequenciamento.
 
----
+# **7\. Controle de qualidade**
 
-## Resumo das alterações desta revisão
+* Garantir homogeneização completa das beads antes do uso.
 
-| # | Alteração | Motivo |
-|---|---|---|
-| 1 | Bloco "Importante" de biossegurança (UV, avental, cabine PCR-free, controle negativo, ponteiras com filtro, tubos low-binding) | Ausente no original; presente nos outros dois protocolos; crítico para lcWGS de baixa quantidade de DNA |
-| 2 | Checagem de digestão completa + reforço de Proteinase K | Sem esse passo, digestão incompleta do inseto inteiro pode passar despercebida |
-| 3 | Centrifugação/clarificação do sobrenadante antes das beads, se houver resíduo | Evita carregar partículas para a etapa de beads |
-| 4 | Dica da P20 na aspiração (PEG viscoso) | Reduz perda de beads/DNA, já presente no protocolo de Peles/Toepads |
-| 5 | QC final (Qubit/Nanodrop + gel) antes do armazenamento | Ausente no original; padrão nos outros dois protocolos |
-| 6 | Checagem do controle negativo antes de liberar o lote | Consistência com Peles/Toepads e Formol |
-| 7 | Correção da numeração duplicada (dois passos "13") | Erro de documentação no original |
+* Evitar aspirar beads durante remoção do sobrenadante.
+
+* Registrar código da amostra, data e responsável.
+
+* Armazenar o DNA a \-20°C ou \-80°C, conforme necessidade.
+
+* O exemplar deve ser corretamente remontado e reincorporado à coleção.
+
+# **8\. Histórico de revisões**
+
+| Versão  | Data  | Alteração  | Responsável  |
+| :---- | :---- | :---- | :---- |
+|  v2.0 |  31/07/2026 | Versão revisada: adição de controle negativo, checagem de digestão completa, QC final (Qubit/gel) e bloco de biossegurança padronizado. |  Gabriela Camacho |
+| v1.0 | 2025 | Protocolo original | Josh Peñalba |
