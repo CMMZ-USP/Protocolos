@@ -22,9 +22,7 @@ Todos os protocolos seguem o mesmo template visual e a mesma estrutura de seçõ
 | `Protocolo_hDNA_Dedos.docx` | Dedos (toepads) | Tampão STE/SDS + Proteinase K | Beads magnéticas |
 | `Protocolo_hDNA_Formol.docx` | Tecido fixado em formol | Tampão FTB + Proteinase K + decrosslinking (90°C) | Coluna de sílica (QIAamp UCP MinElute) |
 | `Protocolo_hDNA_Insetos.docx` | Insetos (inteiros, destrutiva ou não-destrutiva) | Tampão de lise Tris/EDTA/Tween + Proteinase K | Beads magnéticas |
-| `Template_Protocolo_CMMZ.docx` | — | — | Modelo em branco para novos protocolos |
 
-> Todos os arquivos usam o mesmo cabeçalho (logo CMMZ), rodapé (logos das agências financiadoras) e numeração de seções — ver `Template_Protocolo_CMMZ.docx` como ponto de partida para qualquer protocolo novo.
 
 ## Estrutura de cada protocolo
 
@@ -49,17 +47,15 @@ Passos marcados com a tag **[QC]** (ex.: no protocolo de Insetos) indicam adiç�
 
 ## Como usar
 
-1. Baixe o `.docx` do protocolo correspondente ao tipo de amostra.
-2. Preencha os campos entre colchetes na tabela de metadados (código, data de emissão, responsável técnico) antes de imprimir ou usar em bancada.
-3. Siga a seção de **Biossegurança** integralmente antes de iniciar qualquer extração — ela é comum a todos os protocolos e não deve ser pulada.
+1. Baixe o `.pdf` do protocolo correspondente ao tipo de amostra.
+2. Siga a seção de **Biossegurança** integralmente antes de iniciar qualquer extração; ela é comum a todos os protocolos e não deve ser pulada.
 4. Sempre inclua a amostra controle descrita na seção de biossegurança; o lote só deve ser liberado para biblioteca/sequenciamento depois de checar esse controle (seção 6/7, Controle de Qualidade).
 
 ## Como propor uma alteração
 
 1. Abra uma *issue* ou um *pull request* descrevendo a mudança e a justificativa (ex.: ajuste de volume por mudança de concentração de reagente, correção de erro de digitação, novo passo de QC).
-2. Ao editar o `.docx`, atualize também a tabela **Histórico de revisões** dentro do próprio documento (versão, data, descrição da alteração, responsável).
-3. Sempre que possível, valide a mudança em bancada antes de torná-la a versão oficial do protocolo (ex.: rodar um gel comparando resultado antes/depois do ajuste).
-4. Novos protocolos (para outros tipos de amostra) devem partir de `Template_Protocolo_CMMZ.docx`, mantendo a mesma estrutura de seções descrita acima.
+2. Sempre que possível, valide a mudança em bancada antes de sugerir revisão do protocolo (ex.: rodar um gel comparando resultado antes/depois do ajuste).
+3. Novos protocolos (para outros tipos de amostra) devem partir de `Template_Protocolo_CMMZ.docx`, mantendo a mesma estrutura de seções descrita acima.
 
 ## Princípios comuns de biossegurança
 
