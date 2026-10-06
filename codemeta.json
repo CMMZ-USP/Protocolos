@@ -1,0 +1,36 @@
+{
+  "@context": "https://w3id.org/codemeta/3.0",
+  "@type": "SoftwareSourceCode",
+  "name": "CMMZ-USP Protocolos",
+  "description": "[Resumo de uma ou duas frases.]",
+  "codeRepository": "https://github.com/CMMZ-USP/Protocolos",
+  "license": "https://spdx.org/licenses/CC-BY-4.0",
+  "version": "0.1.0",
+  "dateCreated": "[AAAA-MM-DD]",
+  "keywords": ["museomics", "historical DNA", "natural history collections", "CMMZ-USP"],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "[Nome]",
+      "familyName": "[Sobrenome]",
+      "@id": "https://orcid.org/0000-0000-0000-0000",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Museu de Zoologia da Universidade de São Paulo",
+        "@id": "https://ror.org/036rp1748"
+      }
+    }
+  ],
+  "funding": [
+    {
+      "@type": "Grant",
+      "identifier": "2022/11560-6",
+      "name": "EMU: Aquisição de equipamentos de genômica para sequenciamento de nova geração - Explorando DNA histórico em museus: um centro de museômica para expandir o valor das coleções biológicas e promover a descoberta da biodiversidade",
+      "funder": {
+        "@type": "Organization",
+        "name": "Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)",
+        "@id": "https://ror.org/02ddkpn78"
+      }
+    }
+  ]
+}

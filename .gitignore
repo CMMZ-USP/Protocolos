@@ -1,0 +1,47 @@
+# --- Credenciais e configurações locais (NUNCA versionar) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+*secret*
+*credentials*
+*.kdbx
+
+# --- Dados de sequenciamento (vão para o storage / SRA, não para o Git) ---
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.sam
+*.vcf.gz
+*.bcf
+
+# --- Sistema e editores ---
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# --- Python / R / Jupyter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+
+# --- Saídas de workflows ---
+.snakemake/
+work/
+.nextflow*
+results/
+logs/

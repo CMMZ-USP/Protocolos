@@ -1,0 +1,16 @@
+{
+  "title": "CMMZ-USP Protocolos",
+  "description": "[Resumo de uma ou duas frases.] Desenvolvido no Centro de Museômica do Museu de Zoologia da Universidade de São Paulo (CMMZ-USP).",
+  "upload_type": "publication", "publication_type": "technicalnote",
+  "creators": [
+    {
+      "name": "[Sobrenome], [Nome]",
+      "affiliation": "Museu de Zoologia da Universidade de São Paulo",
+      "orcid": "0000-0000-0000-0000"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["museomics", "historical DNA", "natural history collections", "CMMZ-USP"],
+  "communities": [{ "identifier": "cmmz-usp" }],
+  "notes": "Financiamento: FAPESP, processo nº 2022/11560-6 (EMU — Equipamentos Multiusuários)."
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se você usar este material, por favor cite-o como indicado abaixo."
+title: "CMMZ-USP Protocolos"
+abstract: "[Resumo de uma ou duas frases.]"
+type: software   # use "dataset" para dados; para protocolos, "software" é aceito
+authors:
+  - family-names: "[Sobrenome]"
+    given-names: "[Nome]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Centro de Museômica, Museu de Zoologia da Universidade de São Paulo (CMMZ-USP)"
+version: "0.1.0"
+date-released: "[AAAA-MM-DD]"
+license: CC-BY-4.0
+repository-code: "https://github.com/CMMZ-USP/Protocolos"
+keywords:
+  - museomics
+  - historical DNA
+  - natural history collections
+  - CMMZ-USP
